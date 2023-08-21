@@ -108,7 +108,7 @@ function Recognise() {
 
                 <nav className="navbar bg-body-tertiary mt-0 p-3" >
                     <div className="container-fluid">
-                        <a className="navbar-brand" href="https://github.com/AyushKumarBar">
+                        <a className="navbar-brand" href="https://github.com/AyushKumarBar/EMOTICA_V_4.0">
                             <img src={logo} alt="Logo" width="30" height="30" className="d-inline-block align-text-top" />
                             Emotica AI
                         </a>
