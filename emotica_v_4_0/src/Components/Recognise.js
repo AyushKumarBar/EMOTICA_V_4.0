@@ -94,9 +94,11 @@ function Recognise() {
                 }
             } else {
                 console.error('Failed to send frame to backend.');
+                alert('Failed to send frame to backend.')
             }
         } catch (error) {
             console.error('Error sending frame:', error);
+            alert('Unable to send frame.')
         }
     };
 
