@@ -110,7 +110,7 @@ function Recognise() {
                     <div className="container-fluid">
                         <a className="navbar-brand" href="https://github.com/AyushKumarBar">
                             <img src={logo} alt="Logo" width="30" height="30" className="d-inline-block align-text-top" />
-                            Face Analyser
+                            Emotica AI
                         </a>
                         <a className="btn bg-dark text-light" href="https://github.com/AyushKumarBar">GitHub</a>
                     </div>
