@@ -1,11 +1,12 @@
 # EMOTICA_V_4.0
 <img width="900" alt="image" src="https://github.com/AyushKumarBar/EMOTICA_V_4.0/assets/95698835/ad20332e-f9be-47f5-bbb8-752a3fecccec"/>
 
+<img width="900" alt="image" src="https://github.com/AyushKumarBar/EMOTICA_V_4.0/assets/95698835/e5f6e265-a9dc-4ba3-a074-0e524be0e729">
 
-![WhatsApp Image 2023-08-21 at 17 19 31](https://github.com/AyushKumarBar/EMOTICA_V_4.0/assets/95698835/21d87bd5-689e-46d9-b11b-204f2bea2761)
 
 
-![image](https://github.com/AyushKumarBar/EMOTICA_V_4.0/assets/95698835/acc63c52-bcf1-4e4d-8e05-9c216b9c34ef)
+
+
 
 <body>
   <h1>Emotica AI: Real-time Face Analyzer</h1>
@@ -54,6 +55,7 @@
     </li>
     <li>Open your browser and navigate to <a href="http://localhost:3000">http://localhost:3000</a> to access the Emotica application.</li>
   </ol>
+  <img width="900" alt="image" src="https://github.com/AyushKumarBar/EMOTICA_V_4.0/assets/95698835/02dbc3af-a9f4-4690-94fb-a44f735af39d">
   
   <h2>Contributing</h2>
   <p>Contributions are welcome! If you find a bug or have an enhancement in mind, please follow these steps:</p>
