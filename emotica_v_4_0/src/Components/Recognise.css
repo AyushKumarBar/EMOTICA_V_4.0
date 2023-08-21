@@ -1,0 +1,10 @@
+.photo{
+    position: relative;
+    width: 100%;
+    border-radius: 12px;
+}
+video{
+    position: relative;
+    width: 100%;
+    border-radius: 12px;
+}
